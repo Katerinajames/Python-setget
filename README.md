@@ -1,2 +1,7 @@
 
- Python set get !!!
+ These are two set get function examples developed  with python
+ 
+ 
+ 
+ 
+ 
